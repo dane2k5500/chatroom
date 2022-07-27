@@ -1,0 +1,92 @@
+--dark-color-a: #2b2d42;
+	--dark-color-b: #8d99ae;
+	--light-color: #edf2f4;
+	--success-color: #ef233c;
+	--error-color: #d80032;
+
+// const urlParamUserName = new URLSearchParams(location.search);
+// const username = urlParamUserName.get('username');
+
+// const urlParamRoom = new URLSearchParams(location.search);
+// const room = urlParamRoom.get('room');
+
+**************************************************************************************************************
+keyword searches
+
+1) character design - done
+2) anime - done
+3) manga - 
+4) booking website -
+5) membership website - 
+6) Ecommerce - 
+7) online store - 
+***************************************************************************************************************
++WooCommerce store - $650 (up to 10 products)
+
+Packages - eCommerce 
+
+$950 (up to 20 products)
+
++Membership functionality +$750
+
+
+Idea: write an eBook on how to build a booking website and membership website
+
+
+
+
+
+My Wordpress Website Design & Development Packages Include:
+
+
+
+✓ 100% Responsive website to all media devices
+
+✓ Easily Maintainable
+
+✓ Sliders with HD Images
+
+✓ Visually Appealing Website Layout
+
+✓ Live Chat
+
+✓ Call to Actions
+
+✓ Social Media, Rotating Testimonials & Contact Forms
+
+✓ Mailchimp/Newsletter Integration
+
+✓ Google Maps & Analytics
+
+✓ Spam Free Code
+
+✓ E commerce
+
+✓ SSL Certificate
+
+✓ Ready for SEO
+
+and much much more...
+
+
+
+Why Me?
+
+
+
+Highly Rated (Read Reviews)
+7+ years & 1700+ Websites Completed (Highly Experienced)
+Delivery On Time
+Great Response Time
+Your 100% Satisfaction
+Quality Delivery as Promised
+Support for 2 weeks After Delivery 
+
+
+Important Notes:
+
+
+
+Discounts for my Repeat Buyers. Please contact me before ordering & read FAQ's.
+If I use any Premium Theme/Plugin, you might need to purchase it if you need life time support from its developers, none of my Packages/Gigs include license for premium theme/plugin. I only have developer license to use it.
+
